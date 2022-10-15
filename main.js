@@ -20,7 +20,7 @@ let countdownInterval;
 // functions
 start.onclick = () => {
     overLay.remove();
-    getQuiz(`json/${quizSelector.value}.json`);
+    getQuiz(`${quizSelector.value}.json`);
 }
 
 function getQuiz(url) {
