@@ -1,0 +1,402 @@
+[
+    {
+        "quest": "Women whose husband died 3 years ago. she still keeps his clothes in the closet and talks about him in the present time. Is an example of ?",
+        "answer_1": "projection",
+        "answer_2": "denial",
+        "answer_3": "displacement",
+        "answer_4": "undoing",
+        "right_answer": "denial"
+    },
+    {
+        "quest": "When the patient says 'I don't have any bad feelings toward him, but I'm sure he hates me' is the example of?",
+        "answer_1": "projection",
+        "answer_2": "denial",
+        "answer_3": "displacement",
+        "answer_4": "undoing",
+        "right_answer": "projection"
+    },
+    {
+        "quest": "A student angry with teacher at school and slamming the door when exit from the class. is the example of ?",
+        "answer_1": "displacement",
+        "answer_2": "undoing",
+        "answer_3": "projection",
+        "answer_4": "denial",
+        "right_answer": "displacement"
+    },
+    {
+        "quest": "A women is unable to enjoy sex after having pushed out of awareness a traumatic sexual accident (rape) is example of ?",
+        "answer_1": "splitting",
+        "answer_2": "repression",
+        "answer_3": "regression",
+        "answer_4": "fantasy",
+        "right_answer": "repression"
+    },
+    {
+        "quest": "A woman who does not want her child before his born becomes overly protective after the birth, refusing to leave the child's side. is an example of ?",
+        "answer_1": "isolation",
+        "answer_2": "dissociation",
+        "answer_3": "reaction formation",
+        "answer_4": "rationalization",
+        "right_answer": "reaction formation"
+    },
+    {
+        "quest": "When the careless employee says 'I did not get the raise because the boss doesn't like me' is example of ?",
+        "answer_1": "isolation",
+        "answer_2": "dissociation",
+        "answer_3": "reaction formation",
+        "answer_4": "rationalization",
+        "right_answer": "rationalization"
+    },
+    {
+        "quest": "A medical student dissects a cadaver for her anatomy course without being disturbed by thoughts of death. is an example of ?",
+        "answer_1": "isolation",
+        "answer_2": "dissociation",
+        "answer_3": "reaction formation",
+        "answer_4": "rationalization",
+        "right_answer": "isolation"
+    },
+    {
+        "quest": "Four _ years old boy with a new baby brother start to sucking his thumb and wanting a bottle. is example ?",
+        "answer_1": "rationalization",
+        "answer_2": "repression",
+        "answer_3": "regression",
+        "answer_4": "rejection",
+        "right_answer": "repression"
+    },
+    {
+        "quest": "A man become blind after seeing his wife flirting with other men. is an example of ?",
+        "answer_1": "projection",
+        "answer_2": "conversion",
+        "answer_3": "introjection",
+        "answer_4": "dissociation",
+        "right_answer": "conversion"
+    },
+    {
+        "quest": "A man has affair with another woman, then buys his wife anew car. is example of ?",
+        "answer_1": "projection",
+        "answer_2": "denial",
+        "answer_3": "displacement",
+        "answer_4": "undoing",
+        "right_answer": "undoing"
+    },
+    {
+        "quest": "A client who abuses alcohol and cocaine tells a nurse that he only uses substances because of his stressful marriage and difficult job. Which defense mechanisms is this client using ?",
+        "answer_1": "displacement",
+        "answer_2": "projection",
+        "answer_3": "rationalization",
+        "answer_4": "sublimation",
+        "right_answer": "rationalization"
+    },
+    {
+        "quest": "A person who refuses to acknowledge the existence of some external threat is using the defense mechanism of",
+        "answer_1": "supression",
+        "answer_2": "regression",
+        "answer_3": "denial",
+        "answer_4": "reation formation",
+        "right_answer": "denial"
+    },
+    {
+        "quest": "A person who has a strong urge to torture animals but instead becomes a vocal member of an animal rights group is an example of :",
+        "answer_1": "sublimation",
+        "answer_2": "reaction formation",
+        "answer_3": "displacement",
+        "answer_4": "repression",
+        "right_answer": "reaction formation"
+    },
+    {
+        "quest": "The defense mechanism in which behavior is reinterpreted to make it more acceptable is : ",
+        "answer_1": "repression",
+        "answer_2": "reaction formation",
+        "answer_3": "projection",
+        "answer_4": "rationalization",
+        "right_answer": "rationalization"
+    },
+    {
+        "quest": "I'm not angry, but she's made at me, it's an example of",
+        "answer_1": "denial",
+        "answer_2": "displacement",
+        "answer_3": "projection",
+        "answer_4": "isolation",
+        "right_answer": "projection"
+    },
+    {
+        "quest": "After doing poorly on a test, the student believes the test or teacher is stupid , it's an example of defense mechanism is :",
+        "answer_1": "reaction formation",
+        "answer_2": "rationalization",
+        "answer_3": "projection",
+        "answer_4": "denial",
+        "right_answer": "rationalization"
+    },
+    {
+        "quest": "Student who failed a test states, she isn't ready to talk about her grade, it's an example of defense mechanism is :",
+        "answer_1": "rationalization",
+        "answer_2": "suppression",
+        "answer_3": "reaction formation",
+        "answer_4": "projection",
+        "right_answer": "suppression"
+    },
+    {
+        "quest": "Upon returning home from work, a young man discovers that his mother has been in a serious automobile accident. Initially, he responds to the news by stating, 'No, I don't believe it. It can't be true.' Which defense mechanism is he using ?",
+        "answer_1": "introjection",
+        "answer_2": "suppression",
+        "answer_3": "denial",
+        "answer_4": "repression",
+        "right_answer": "denial"
+    },
+    {
+        "quest": "An adolescent, age 17, rarely expresses feelings and usually remains passive. However, when angry, her face becomes flushed and her blood pressure rises to 170/100 mm Hg. Her parents are passive and easygoing. The adolescent may be using which defense mechanism to handle anger ?",
+        "answer_1": "displacement",
+        "answer_2": "introjection",
+        "answer_3": "projection",
+        "answer_4": "sublimation",
+        "right_answer": "introjection"
+    },
+    {
+        "quest": "F. initially responds to bad news by yelling, 'No, I don't believe it. It can't be true.' F. is using which defense mechanism ?",
+        "answer_1": "introjection",
+        "answer_2": "suppression",
+        "answer_3": "denial",
+        "answer_4": "repression",
+        "right_answer": "denial"
+    },
+    {
+        "quest": "F. excuses herself from the hospital to go home by saying to her father, 'I have to go home. I can't stay awake anymore, and I've been here most of the day.' Which defense mechanism is F. using ?",
+        "answer_1": "reaction formation",
+        "answer_2": "rationalization",
+        "answer_3": "denial",
+        "answer_4": "regression",
+        "right_answer": "rationalization"
+    },
+    {
+        "quest": "On arriving home, F. encounters neighbors who ask about her mother's condition. F. tells them all the details unemotionally and without feeling upset. This behavior illustrates her use of :",
+        "answer_1": "displacement",
+        "answer_2": "introjection",
+        "answer_3": "intellectualization",
+        "answer_4": "conversion",
+        "right_answer": "intellectualization"
+    },
+    {
+        "quest": "A person with a newly diagnosed terminal illness is cheerful and makes no mention of illness or pain, it's an example of",
+        "answer_1": "projection",
+        "answer_2": "introjection",
+        "answer_3": "denial",
+        "answer_4": "rationalization",
+        "right_answer": "denial"
+    },
+    {
+        "quest": " A woman whose health has deteriorated because of alcohol abuse denies she has problem with alcohol by. Saying I can stop alcohol at any time easily, it's an example of",
+        "answer_1": "displacement",
+        "answer_2": "denial",
+        "answer_3": "projection",
+        "answer_4": "rationalization",
+        "right_answer": "denial"
+    },
+    {
+        "quest": "A man who was late for work blames wife for not setting the alarm clock, it's an example of defense mechanism is :",
+        "answer_1": "projection",
+        "answer_2": "regression",
+        "answer_3": "repression",
+        "answer_4": "denial",
+        "right_answer": "projection"
+    },
+    {
+        "quest": "Individuals with paranoid behavior frequently over use projection statements could indicate projection, it's example of",
+        "answer_1": "rationalization",
+        "answer_2": "reaction formation",
+        "answer_3": "sublimation",
+        "answer_4": "projection",
+        "right_answer": "projection"
+    },
+    {
+        "quest": "A person who is frustrated by his boss may go home and kick the dog, it's an example of :",
+        "answer_1": "displacement",
+        "answer_2": "rationalization",
+        "answer_3": "repression",
+        "answer_4": "isolation",
+        "right_answer": "displacement"
+    },
+    {
+        "quest": "A student blames failure on teacher being mean stupid, example of ?",
+        "answer_1": "dissociation",
+        "answer_2": "reaction formation",
+        "answer_3": "rationalization",
+        "answer_4": "identification",
+        "right_answer": "rationalization"
+    },
+    {
+        "quest": "Man forgets wife's birthday after a marital fight, example of ?",
+        "answer_1": "repression",
+        "answer_2": "regression",
+        "answer_3": "projection",
+        "answer_4": "rationalization",
+        "right_answer": "repression"
+    },
+    {
+        "quest": "An adult remember nothing of childhood abuse, it's an example of defense mechanism is",
+        "answer_1": "displacement",
+        "answer_2": "identification",
+        "answer_3": "regression",
+        "answer_4": "dissociation",
+        "right_answer": "dissociation"
+    },
+    {
+        "quest": "A woman who was raped was found walking on streets when examined, she was found in a state of traumatic amnesia, it's example of ? ",
+        "answer_1": "displacement",
+        "answer_2": "dissociation",
+        "answer_3": "regression",
+        "answer_4": "intellectualization",
+        "right_answer": "dissociation"
+    },
+    {
+        "quest": "A person having nursing, she attended nursing school to please her parents; she speaks to prospective students about the excellence of nursing as a career, it's an example of ?",
+        "answer_1": "projection",
+        "answer_2": "rationalization",
+        "answer_3": "undoing",
+        "answer_4": "reaction formation",
+        "right_answer": "reaction formation"
+    },
+    {
+        "quest": "Doctor isolates his feeling or emotions from memory in the operating room, it's example of",
+        "answer_1": "isolation",
+        "answer_2": "suppression",
+        "answer_3": "regression",
+        "answer_4": "dissociation",
+        "right_answer": "isolation"
+    },
+    {
+        "quest": "A person who has just been diagnosed with a terminal illness might focus on learning everything about the disease in order to avoid distress and remain distant from the reality of the situation, it's example of ?",
+        "answer_1": "denial",
+        "answer_2": "rationalization",
+        "answer_3": "reaction formation",
+        "answer_4": "intellectualization",
+        "right_answer": "intellectualization"
+    },
+    {
+        "quest": "Five years old girl dresses in the mother's shoes and dress and meets her father at the door, it's an example of defense mechanism is ?",
+        "answer_1": "acting out",
+        "answer_2": "identification",
+        "answer_3": "rationalization",
+        "answer_4": "reaction formation",
+        "right_answer": "identification"
+    },
+    {
+        "quest": "A student decided not to think about a parent's illness in order to study for a test, it's example of ?",
+        "answer_1": "isolation",
+        "answer_2": "suppression",
+        "answer_3": "repression",
+        "answer_4": "rationalization",
+        "right_answer": "suppression"
+    },
+    {
+        "quest": "A business man who is preparing to make an important speech that day his wife told him that she wants to divorce. He puts this incident aside until after his speech to concentrate, it's example of ?",
+        "answer_1": "isolation",
+        "answer_2": "reaction formation",
+        "answer_3": "repression",
+        "answer_4": "suppression",
+        "right_answer": "suppression"
+    },
+    {
+        "quest": "A teenage boy with aggressive drives becomes a star in boxing sport, example of what",
+        "answer_1": "supression",
+        "answer_2": "sublimation",
+        "answer_3": "isolation",
+        "answer_4": "acting out",
+        "right_answer": "sublimation"
+    },
+    {
+        "quest": "Handicapped boy can't become a footballer but he can compensate that defect by becoming a good scholar, example of which from the next ?",
+        "answer_1": "supression",
+        "answer_2": "sublimation",
+        "answer_3": "compensation",
+        "answer_4": "rationalization",
+        "right_answer": "compensation"
+    },
+    {
+        "quest": "child's temper tantrum when he or she doesn't get his or her way with a parent, example of what ?",
+        "answer_1": "regression",
+        "answer_2": "identification",
+        "answer_3": "intellectualization",
+        "answer_4": "acting out",
+        "right_answer": "acting out"
+    },
+    {
+        "quest": "Instead of feeling sad. A person gets drunk, it's an example of ?",
+        "answer_1": "displacement",
+        "answer_2": "identification",
+        "answer_3": "acting out",
+        "answer_4": "intellectualization",
+        "right_answer": "acting out"
+    },
+    {
+        "quest": "Man who loses a promotion starts to misses appointments, and comes late in meetings, exmple of which from the next ?",
+        "answer_1": "acting out",
+        "answer_2": "reaction formation",
+        "answer_3": "regression",
+        "answer_4": "displacement",
+        "right_answer": "regression"
+    },
+    {
+        "quest": "After his wife's death, husband has transient complaints of chest pains and difficulty breathing, the symptoms his wife had before she died, example of ?",
+        "answer_1": "projection",
+        "answer_2": "identification",
+        "answer_3": "introjection",
+        "answer_4": "denial",
+        "right_answer": "introjection"
+    },
+    {
+        "quest": "Student is unable take a final exam because of a terrible headache, example of what ?",
+        "answer_1": "conversion",
+        "answer_2": "displacement",
+        "answer_3": "introjection",
+        "answer_4": "projection",
+        "right_answer": "conversion"
+    },
+    {
+        "quest": "Engagement rings symbolize love and a commitment to another person, example of what ?",
+        "answer_1": "displacement",
+        "answer_2": "conversion",
+        "answer_3": "symbolization",
+        "answer_4": "sublimation",
+        "right_answer": "symbolization"
+    },
+    {
+        "quest": "imagine completing the task and the feeling of satisfaction,example of which defense mechanism ?",
+        "answer_1": "regression",
+        "answer_2": "fantasy",
+        "answer_3": "acting out",
+        "answer_4": "identification",
+        "right_answer": "fantasy"
+    },
+    {
+        "quest": "A man with rigid and moralistic beliefs and repressed sexuality is driven to wash his hands when around attractive woman to gain composure, example of ?",
+        "answer_1": "regression",
+        "answer_2": "reaction formation",
+        "answer_3": "rationalization",
+        "answer_4": "undoing",
+        "right_answer": "undoing"
+    },
+    {
+        "quest": "Man reacts to news of death of a loved one by saying, No, I don't believe you",
+        "answer_1": "reaction formation",
+        "answer_2": "denial",
+        "answer_3": "projection",
+        "answer_4": "rationalization",
+        "right_answer": "denial"
+    },
+    {
+        "quest": "I don't have any bad feelings toward him, but I am sure he hates me",
+        "answer_1": "denial",
+        "answer_2": "introjection",
+        "answer_3": "projection",
+        "answer_4": "regression",
+        "right_answer": "projection"
+    },
+    {
+        "quest": "An oncologist cares for a terminally ill cancer patient by isolating his emotional reaction to the patient's inevitable death.",
+        "answer_1": "intellecualization",
+        "answer_2": "isolation",
+        "answer_3": "denial",
+        "answer_4": "reaction formation",
+        "right_answer": "isolation"
+    }
+]

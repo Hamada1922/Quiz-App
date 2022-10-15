@@ -1,0 +1,312 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    outline: none;
+}
+
+:root {
+    /* --main-color: #c8d6c8;
+    --font-color: #2ac42a;
+    --secondary-color: #e5f7e5; */
+    --main-color: #99bec7;
+    --font-color: #2aa5c4;
+    --secondary-color: #dbeef3;
+    --transition: 0.3s;
+}
+
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-transform: capitalize;
+}
+
+button {
+    cursor: pointer;
+    border: none;
+    font-weight: bold;
+    border-radius: 6px;
+}
+
+.container {
+    padding: 0 15px;
+    margin: auto;
+}
+
+@media (min-width: 768px) {
+    .container {
+        width: 750px;
+    }
+}
+
+@media (min-width: 992px) {
+    .container {
+        width: 970px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .container {
+        width: 1170px;
+    }
+}
+
+.quiz-app {
+    margin: 10px auto 1px;
+    padding: 20px;
+    background-color: var(--secondary-color);
+    width: 800px;
+    max-width: 100%;
+    border-radius: 6px;
+    position: relative;
+}
+
+.quiz-app .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@media(max-width: 767px) {
+    .quiz-app .overlay {
+        flex-direction: column;
+        gap: 10px;
+    }
+}
+
+.quiz-app .overlay label {
+    font-weight: bold;
+    font-size: 25px;
+    color: var(--secondary-color);
+    position: relative;
+    top: -1px;
+}
+
+@media(max-width: 767px) {
+    .quiz-app .overlay label {
+        font-size: 20px;
+    }
+}
+
+.quiz-app .overlay select {
+    background: none;
+    border: 1px solid var(--secondary-color);
+    margin: 0 20px 0 10px;
+    padding: 5px 10px;
+    font-size: 17px;
+    color: var(--font-color);
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.quiz-app .overlay select option {
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+.quiz-app .overlay .start {
+    background-color: var(--font-color);
+    color: var(--secondary-color);
+    padding: 7px 20px;
+    font-size: 18px;
+}
+
+.quiz-app header {
+    background-color: var(--main-color);
+    padding: 15px 20px;
+    margin-bottom: 3px;
+}
+
+.quiz-app header p {
+    font-weight: bold;
+    font-size: 20px;
+    color: var(--secondary-color);
+    text-shadow: 2px -1px black;
+}
+
+.quiz-app .quiz-info {
+    background-color: var(--main-color);
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+@media (max-width: 767px) {
+    .quiz-app .quiz-info {
+        flex-direction: column;
+        font-size: 16px;
+        gap: 10px;
+    }
+}
+
+.quiz-app .quiz-info div span {
+    color: var(--font-color);
+    margin-left: 5px;
+}
+
+.quiz-app .quest-area {
+    background-color: var(--main-color);
+    margin: 10px 0 2px;
+    padding: 5px 20px;
+    border-radius: 4px;
+}
+
+.quiz-app .quest-area h2 {
+    font-size: 19px;
+    text-transform: none;
+}
+
+@media (max-width: 767px) {
+    .quiz-app .quest-area h2 {
+        font-size: 16px;
+    }
+
+}
+
+.quiz-app .answers-area {
+    background-color: var(--main-color);
+    padding: 20px;
+}
+
+.quiz-app .answers-area .answer {
+    background-color: var(--secondary-color);
+    padding: 10px;
+}
+
+.quiz-app .answers-area .answer:not(:first-child) {
+    border-top: 1px solid #dfdfdf;
+}
+
+.quiz-app .answers-area .answer input {
+    accent-color: var(--font-color);
+    position: relative;
+    top: 2px;
+    margin-right: 5px;
+    transition: var(--transition);
+    cursor: pointer;
+}
+
+.quiz-app .answers-area .answer input:checked {
+    margin-left: 15px;
+}
+
+.quiz-app .answers-area .answer label {
+    cursor: pointer;
+    transition: var(--transition);
+}
+
+.quiz-app .answers-area .answer input:checked+label {
+    color: var(--font-color);
+    font-weight: bold;
+}
+
+.quiz-app .submit {
+    display: block;
+    margin: 20px 0;
+    font-size: 17px;
+    background-color: var(--font-color);
+    color: #fff;
+    padding: 7px 15px;
+}
+
+.bullets {
+    display: flex;
+    background-color: var(--main-color);
+    padding: 10px 20px;
+    border-top: 1px solid #999;
+}
+
+@media (max-width: 767px) {
+    .bullets {
+        flex-direction: column;
+        gap: 10px;
+        text-align: center;
+    }
+}
+
+.bullets .spans {
+    flex: 1;
+    display: flex;
+    gap: 6px;
+}
+
+.bullets .spans span {
+    width: 15px;
+    height: 15px;
+    background-color: var(--secondary-color);
+    position: relative;
+    transition: var(--transition);
+}
+
+@media (max-width: 767px) {
+    .bullets .spans span {
+        width: 10px;
+        height: 10px;
+    }
+}
+
+.bullets .spans span.active {
+    transform: rotate(45deg);
+    background-color: var(--font-color);
+}
+
+.bullets .timer {
+    font-weight: bold;
+}
+
+.quiz-app .result {
+    font-weight: bold;
+    background-color: var(--main-color);
+    margin: 10px 0;
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.quiz-app .result span {
+    font-size: 17px;
+}
+
+.quiz-app .result span.bad {
+    color: #ff0000;
+}
+
+.quiz-app .result span.good {
+    color: #0000ff;
+}
+
+.quiz-app .result span.perfect {
+    color: var(--font-color);
+}
+
+.quiz-app .result .retest {
+    background-color: var(--font-color);
+    color: var(--secondary-color);
+    padding: 7px 15px;
+}
+
+footer {
+    width: 800px;
+    max-width: 100%;
+    margin: 0 auto;
+    background-color: #222;
+    padding: 15px 20px;
+    border-radius: 6px;
+}
+
+footer p {
+    color: var(--secondary-color);
+    font-weight: bold;
+}
+
+footer p span {
+    color: var(--font-color);
+}
